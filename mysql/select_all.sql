@@ -1,0 +1,1 @@
+SELECT * FROM vk_bot_ticket_creator.messages;

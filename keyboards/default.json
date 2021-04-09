@@ -1,0 +1,37 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "/help"
+        },
+        "color": "positive"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "/translate"
+        },
+        "color": "default"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/database"
+        },
+        "color": "default"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/files"
+        },
+        "color": "default"
+      }
+    ]
+  ]
+}

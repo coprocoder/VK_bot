@@ -1,0 +1,53 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "/transcription"
+        },
+        "color": "default"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/meaning"
+        },
+        "color": "default"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/translate"
+        },
+        "color": "default"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "/context"
+        },
+        "color": "default"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/etymology"
+        },
+        "color": "default"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "/default"
+        },
+        "color": "positive"
+      }
+    ]
+  ]
+}

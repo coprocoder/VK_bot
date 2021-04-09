@@ -1,0 +1,53 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "audio"
+        },
+        "color": "default"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "video"
+        },
+        "color": "default"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "docs"
+        },
+        "color": "default"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "searcher"
+        },
+        "color": "default"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "upload"
+        },
+        "color": "default"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "/default"
+        },
+        "color": "positive"
+      }
+    ]
+  ]
+}

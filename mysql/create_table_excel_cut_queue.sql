@@ -1,0 +1,1 @@
+CREATE TABLE otrs.tickets_normalise SELECT * FROM otrs.tickets_cut_queue

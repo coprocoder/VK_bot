@@ -1,0 +1,30 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "insert"
+        },
+        "color": "default"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "select"
+        },
+        "color": "default"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "/default"
+        },
+        "color": "positive"
+      }
+    ]
+  ]
+}

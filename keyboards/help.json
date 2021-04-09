@@ -1,0 +1,30 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "modes"
+        },
+        "color": "default"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "commands"
+        },
+        "color": "default"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "/default"
+        },
+        "color": "positive"
+      }
+    ]
+  ]
+}
